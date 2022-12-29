@@ -15,9 +15,13 @@ font-family: 'Montserrat', sans-serif;
 }
 
 .my_footer{
-background-color:red;
-height:60px;
-border:solid 1px;
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: red;
+  color: white;
+  text-align: center;
 }
 
 .my_footer p{
